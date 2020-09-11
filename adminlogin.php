@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE html> //tells browser that it is written in markup language
 <html lang="en">
 <head>
 	<title>Admin Page</title>

@@ -29,19 +29,19 @@
 
         <form class="login100-form validate-form" method="post">
 
-            <div class="wrap-input100 validate-input m-b-18" data-validate = "Password is required">
+            <div class="wrap-input100 validate-input m-b-18" data-validate = "Required">
             <span class="label-input100">From</span>
             <input class="input100" type="text" name="From" placeholder="From">
             <span class="focus-input100"></span>
           </div>
           
-          <div class="wrap-input100 validate-input m-b-18" data-validate = "Password is required">
+          <div class="wrap-input100 validate-input m-b-18" data-validate = "Required">
             <span class="label-input100">To</span>
             <input class="input100" type="text" name="To" placeholder="To">
             <span class="focus-input100"></span>
           </div>
 
-            <div class="wrap-input100 validate-input m-b-18" data-validate = "Password is required">
+            <div class="wrap-input100 validate-input m-b-18" data-validate = "Required">
             <span class="label-input100">Date</span>
             <input class="input100" type="date" name="Date" placeholder="Enter Date">
             <span class="focus-input100"></span>

@@ -6,12 +6,12 @@
 </head>
 <body>
 <?php
-$bid=$_GET['bid'];
+$bid=$_GET['bid']; //request data from specified resource
 include('adb.php');
 $sql=mysqli_query($con,"SELECT * FROM `bustable` WHERE bid='$bid'");
 $res=mysqli_fetch_array($sql);
 ?>
-<form method="post">
+<form method="post"> //send data to server
 
 <label> model</label>
 <input type="text" name="model" value="<?php echo $res['model']?>" ><br>

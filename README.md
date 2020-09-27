@@ -8,4 +8,3 @@ Admin is supposed to enter his username and password along with email
 If correct credentials are entered by admin then he will be redirected to dashboard page,consists of options like buses,passenger,routes,tickets,bookings,change password and logout.
 Bus webpage consists of bus details like busmodel,busname,bustype,routeid,number of seats,edit and delete to alter the informations provided.
 Routes consists of details like station code,departure time,arrival time,distance route,edit,delete.
-Tickets consist of details like
